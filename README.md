@@ -26,10 +26,13 @@ I am a Full Stack Web Developer. Proficient in React, JavaScript, FrontEnd Devel
 - Deploying back-end on Heroku and front-end on Netlify.
 <!-- Working with meetings and workshops team to provide best experience to faciltators and participants while running meetings . I worked on features like creating isolated environment for participants during meeting, providing them limited tools to collaborate and created navigation panel for facilitators to move participants to different slides -->
 
-### **FRONTEND DEVELOPER**
-### Booking.com
+### **Engineer/Product Development **
+### Sherwood Innovations Inc
 
-Worked with packages team to build mobile website using React, typsecript and graphql. Developerd checkout process for package bookings. Migrated the old code in perl to react for desktop website.
+- Coordinated with cross-functional teams of around 20 to finalize product concept.
+- Engaged in creative and critical thought to optimize design and achieved the targeted KPI of 5% for efficient engineering design.
+- Improved customer’s safety and satisfaction by using design and engineering skills to improve product design. 
+
 
 ### **SOFTWARE DEVELOPER**
 ### NAGARRO PVT, LTD
