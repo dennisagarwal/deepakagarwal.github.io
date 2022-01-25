@@ -20,12 +20,14 @@ I am a Full Stack Developer with an experience of over 1 year. I have hands on e
 
 ### **FULL STACK DEVELOPER**
 ### Freelance
+```
 -Perform code review and performing extensive testing to ensure high quality software
 -Design, develop, and unit test applications in accordance with established standards
 -Proficient appliction of HTML, CSS/LESS/SCSS/etc., JavaScript/JQuery, and responsive designing.
 -Creating RESTful APIs and using third part APIs as per project requirement.
 -Deploying back-end on Heroku and front-end on Netlify.
-Working with meetings and workshops team to provide best experience to faciltators and participants while running meetings . I worked on features like creating isolated environment for participants during meeting, providing them limited tools to collaborate and created navigation panel for facilitators to move participants to different slides
+```
+<!-- Working with meetings and workshops team to provide best experience to faciltators and participants while running meetings . I worked on features like creating isolated environment for participants during meeting, providing them limited tools to collaborate and created navigation panel for facilitators to move participants to different slides -->
 
 ### **FRONTEND DEVELOPER**
 ### Booking.com
