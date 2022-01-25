@@ -1,6 +1,5 @@
 ## Portfolio
-
-I am a Full Stack Developer with an experience of over 1 year. I have hands on experienceworking with web frameworks and technologies. I have extensively worked on front-end and backend technology for over a year.
+I am a Full Stack Web Developer. Proficient in React, JavaScript, FrontEnd Development, Node.js, Backend Development. Full Stack Development allows me to work on algorithms, logical reasoning, analytical reasoning, and creative content all at the same time.
 
 ---
 
