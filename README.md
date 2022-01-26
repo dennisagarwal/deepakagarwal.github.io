@@ -1,5 +1,5 @@
 ## Portfolio
-I am a Full Stack Web Developer. Proficient in React, JavaScript, FrontEnd Development, Node.js, Backend Development. Full Stack Development allows me to work on algorithms, logical reasoning, analytical reasoning, and creative content all at the same time.
+I am a Full Stack Web Developer. Proficient in React, JavaScript, Node.js, Express, HTML,CSS, JEST, FrontEnd Development, Backend Development. Full Stack Development allows me to work on algorithms, logical reasoning, analytical reasoning, and creative content all at the same time.
 
 ---
 
