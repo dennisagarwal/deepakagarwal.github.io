@@ -20,7 +20,7 @@ I am a Full Stack Web Developer. Proficient in React, JavaScript, FrontEnd Devel
 ### Freelance
 - Perform code review and performing extensive testing to ensure high quality software
 - Design, develop, and unit test applications in accordance with established standards
-- Proficient appliction of REST,JS,HTML, CSS/LESS/SCSS/etc., JavaScript/JQuery, and responsive designing.
+- Proficient appliction of REACT,JS,HTML, CSS/LESS/SCSS/etc., JavaScript/JQuery, and responsive designing.
 
 <!-- Working with meetings and workshops team to provide best experience to faciltators and participants while running meetings . I worked on features like creating isolated environment for participants during meeting, providing them limited tools to collaborate and created navigation panel for facilitators to move participants to different slides -->
 
