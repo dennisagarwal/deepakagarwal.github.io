@@ -73,6 +73,10 @@ I am a Full Stack Web Developer. Proficient in React, JavaScript, Node.js, Expre
     - Click here => [friendlist-mongoDB](https://loving-bell-14d73f.netlify.app/)
     - Github Repository => [Friendlist-MongoDB](https://github.com/dennisagarwal/friendlist-mongoDB)
 
+7. The food-api-app will suggest different dishes based on the ingredient input in search</br>
+    - Tech Stack REST API, React, mongoDB, JS, BootStrap, HTML, SASS, CSS
+    - Click here => [food-api](https://fervent-lewin-4cbe98.netlify.app/)
+    - Github Repository => [food-api](https://github.com/dennisagarwal/food-api-app)
 ---
 
 ### INTERESTS
