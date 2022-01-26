@@ -80,7 +80,7 @@ I am a Full Stack Web Developer. Proficient in React, JavaScript, Node.js, Expre
     
 8. The dice-game is a basic dice shuffle application</br>
     - Tech Stack JS, HTML,CSS
-    - Click here => [food-api](https://dennisagarwal.github.io/diceGame/)
+    - Click here => [dice-game](https://dennisagarwal.github.io/diceGame/)
     - Github Repository => [dice-game](https://github.com/dennisagarwal/diceGame)
 ---
 
