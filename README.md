@@ -53,7 +53,7 @@ I am a Full Stack Web Developer. Proficient in React, JavaScript, FrontEnd Devel
     - Click here => [Travel-Site](https://dennisagarwal.github.io/deepak-agarwal-travelsite/)
     - Github Repository => [Travel-Site-Github-Repository](https://github.com/dennisagarwal/deepak-agarwal-travelsite)
 
-3. This is a travelsite </br>
+3. This app plays sounds of cat in different moods. </br>
     - Tech Stack JS, HTML, SASS, CSS
     - Click here => [Pet-Sound](https://dennisagarwal.github.io/deepak-agarwal-travelsite/)
     - Github Repository => [Pet-Sound-Github-Repository](https://github.com/dennisagarwal/Pet-Sound)
@@ -67,6 +67,11 @@ I am a Full Stack Web Developer. Proficient in React, JavaScript, FrontEnd Devel
     - Tech Stack React, MySql, JS, BootStrap, HTML, SASS, CSS
     - Click here => [hr-management-app](https://loving-bell-14d73f.netlify.app/)
     - Github Repository => [HR-Management-Repository](https://github.com/dennisagarwal/hr-management-app)
+
+6. The friend input will be recorded in mongoDB database</br>
+    - Tech Stack React, mongoDB, JS, BootStrap, HTML, SASS, CSS
+    - Click here => [friendlist-mongoDB](https://loving-bell-14d73f.netlify.app/)
+    - Github Repository => [Friendlist-MongoDB](https://github.com/dennisagarwal/friendlist-mongoDB)
 ---
 ### INTERESTS
 Apart from being a web developer.
