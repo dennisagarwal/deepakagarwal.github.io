@@ -43,10 +43,14 @@ I am a Full Stack Web Developer. Proficient in React, JavaScript, FrontEnd Devel
 
 ## Projects
 
-1. This sitesuggest movies based on users location and city's weather.It also shows different platform like Amzon Prime, Netflix on a single Screen. Trailer of the movies can be watched easily with a single click </br>
-   - Tech Stack React, JS, HTNL, SASS, CSS ,API
-    - Click here => [Movie-Weather-App](https://movie-weather-app.web.app/)
+1. This site suggests movies based on users location and city's weather.It also shows different platform like Amzon Prime, Netflix on a single Screen. Trailer of the movies can be watched easily with a single click </br>
+   - Tech Stack React, JS, HTML, SASS, CSS ,API
+   - Click here => [Movie-Weather-App](https://movie-weather-app.web.app/)
+   -  Github Repository => [Movie-Weather-App-Github-Repository](https://github.com/dennisagarwal/movie-weather-app)
 
+2. This is a travelsite </br>
+   - Tech Stack HTML, SASS, CSS
+    - Click here => [Travel-Site](https://dennisagarwal.github.io/deepak-agarwal-travelsite/)
 ---
 ### INTERESTS
 Apart from being a web developer.
