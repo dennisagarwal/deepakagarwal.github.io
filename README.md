@@ -74,7 +74,7 @@ I am a Full Stack Web Developer. Proficient in React, JavaScript, Node.js, Expre
 
 6. The friend input will be recorded in mongoDB database</br>
     - Tech Stack React, mongoDB, JS, BootStrap, HTML, SASS, CSS
-    - Click here => [friendlist-mongoDB](https://loving-bell-14d73f.netlify.app/)
+    - Click here => [friendlist-mongoDB](https://clever-jepsen-23c9c5.netlify.app/)
     - Github Repository => [Friendlist-MongoDB](https://github.com/dennisagarwal/friendlist-mongoDB)
 
 7. The food-api-app will suggest different dishes based on the ingredient input in search</br>
