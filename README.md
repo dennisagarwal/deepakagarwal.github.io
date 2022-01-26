@@ -35,8 +35,7 @@ I am a Full Stack Web Developer. Proficient in React, JavaScript, FrontEnd Devel
 
 ## Education
 
-### **BrainStation**
-### Diploma, Web Development (2021- 2021)
+### Diploma Web Development, BrainStation (2021- 2021)
 ### JavaScript Accelerated Program, Juno College of Technology (2021- 2021)
 ### Masters in Engineering, University Of Ottawa (2017-2018)
 
