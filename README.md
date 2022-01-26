@@ -80,7 +80,9 @@ I am a Full Stack Web Developer. Proficient in React, JavaScript, FrontEnd Devel
     - Github Repository => [Friendlist-MongoDB](https://github.com/dennisagarwal/friendlist-mongoDB)
 </br>
 </br>
+
 ---
+
 ### INTERESTS
 Apart from being a web developer.
 
