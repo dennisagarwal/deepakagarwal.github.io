@@ -10,7 +10,6 @@ I am a Full Stack Web Developer. Proficient in React, JavaScript, FrontEnd Devel
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="40" height="40">
   <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='30' width='auto' alt="js">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
-<!--    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> -->
 </p>
 
 ---
@@ -21,36 +20,30 @@ I am a Full Stack Web Developer. Proficient in React, JavaScript, FrontEnd Devel
 ### Freelance
 - Perform code review and performing extensive testing to ensure high quality software
 - Design, develop, and unit test applications in accordance with established standards
-- Proficient appliction of HTML, CSS/LESS/SCSS/etc., JavaScript/JQuery, and responsive designing.
-- Creating RESTful APIs and using third part APIs as per project requirement.
-- Deploying back-end on Heroku and front-end on Netlify.
+- Proficient appliction of REST,JS,HTML, CSS/LESS/SCSS/etc., JavaScript/JQuery, and responsive designing.
+
 <!-- Working with meetings and workshops team to provide best experience to faciltators and participants while running meetings . I worked on features like creating isolated environment for participants during meeting, providing them limited tools to collaborate and created navigation panel for facilitators to move participants to different slides -->
 
-### **Engineer/Product Development **
+### **Engineer/Product Development**
 ### Sherwood Innovations Inc
 
 - Coordinated with cross-functional teams of around 20 to finalize product concept.
 - Engaged in creative and critical thought to optimize design and achieved the targeted KPI of 5% for efficient engineering design.
 - Improved customer’s safety and satisfaction by using design and engineering skills to improve product design. 
 
-
-### **SOFTWARE DEVELOPER**
-### NAGARRO PVT, LTD
-
-Worked on java , hybris framework and promotion engine. Created registration process, order hostory for amway. Worked on emil notifications service for customers
-
 ---
 
 ## Education
 
-### **GURU NANAK DEV UNIVERSITY**
-### BTech Computer Science (2012- 2016)
-GPA 8.75
+### **BrainStation**
+### Diploma, Web Development (2021- 2021)
+### JavaScript Accelerated Program, Juno College of Technology (2021- 2021)
+### Masters in Engineering, University Of Ottawa (2017-2018)
 
 ---
 
 ### INTERESTS
-Apart from being a web developer, I do content creation. I make videos related to frontend and general tech.
+Apart from being a web developer.
 
-I enjoy being outdoors, so i go for run everyday. I love travelling to different countries and explore different cultures. When i am inside , i play guitar and sing in my free time.
+I like to interact with new people. Music, cooking, reading articles, and painting keep me calm. I love doing adventure supports.
 
