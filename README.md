@@ -64,7 +64,7 @@ I am a Full Stack Web Developer. Proficient in React, JavaScript, Node.js, Expre
 
 4. This website based on a concept of Tinder for pets </br>
     - Tech Stack JS, BootStrap, HTML, SASS, CSS
-    - Click here => [Pet-Sound](https://dennisagarwal.github.io/tinDog/)
+    - Click here => [tinDog](https://dennisagarwal.github.io/tinDog/)
     - Github Repository => [Tin-Dog-Github-Repository](https://github.com/dennisagarwal/tinDog)
 
 5. The employee input will be recorded in MySql database</br>
