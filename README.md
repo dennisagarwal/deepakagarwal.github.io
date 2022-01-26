@@ -42,32 +42,37 @@ I am a Full Stack Web Developer. Proficient in React, JavaScript, FrontEnd Devel
 ---
 
 ## Projects
-
+```
 1. This site suggests movies based on users location and city's weather.It also shows different platform like Amzon Prime, Netflix on a single Screen. Trailer of the movies can be watched easily with a single click </br>
    - Tech Stack React, JS, HTML, SASS, CSS ,API
    - Click here => [Movie-Weather-App](https://movie-weather-app.web.app/)
    -  Github Repository => [Movie-Weather-App-Github-Repository](https://github.com/dennisagarwal/movie-weather-app)
-
+```
+```
 2. This is a travelsite </br>
     - Tech Stack HTML, SASS, CSS
     - Click here => [Travel-Site](https://dennisagarwal.github.io/deepak-agarwal-travelsite/)
     - Github Repository => [Travel-Site-Github-Repository](https://github.com/dennisagarwal/deepak-agarwal-travelsite)
-
+```
+```
 3. This app plays sounds of cat in different moods. </br>
     - Tech Stack JS, HTML, SASS, CSS
     - Click here => [Pet-Sound](https://dennisagarwal.github.io/deepak-agarwal-travelsite/)
     - Github Repository => [Pet-Sound-Github-Repository](https://github.com/dennisagarwal/Pet-Sound)
-
+```
+```
 4. This website based on a concept of Tinder for pets </br>
     - Tech Stack JS, BootStrap, HTML, SASS, CSS
     - Click here => [Pet-Sound](https://dennisagarwal.github.io/tinDog/)
     - Github Repository => [Tin-Dog-Github-Repository](https://github.com/dennisagarwal/tinDog)
-
+```
+```
 5. The employee input will be recorded in MySql database</br>
     - Tech Stack React, MySql, JS, BootStrap, HTML, SASS, CSS
     - Click here => [hr-management-app](https://loving-bell-14d73f.netlify.app/)
     - Github Repository => [HR-Management-Repository](https://github.com/dennisagarwal/hr-management-app)
-
+```
+```
 6. The friend input will be recorded in mongoDB database</br>
     - Tech Stack React, mongoDB, JS, BootStrap, HTML, SASS, CSS
     - Click here => [friendlist-mongoDB](https://loving-bell-14d73f.netlify.app/)
