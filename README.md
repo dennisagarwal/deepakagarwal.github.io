@@ -62,6 +62,11 @@ I am a Full Stack Web Developer. Proficient in React, JavaScript, FrontEnd Devel
     - Tech Stack JS, BootStrap, HTML, SASS, CSS
     - Click here => [Pet-Sound](https://dennisagarwal.github.io/tinDog/)
     - Github Repository => [Tin-Dog-Github-Repository](https://github.com/dennisagarwal/tinDog)
+
+5. The employee input will be recorded in MySql database</br>
+    - Tech Stack React, MySql, JS, BootStrap, HTML, SASS, CSS
+    - Click here => [hr-management-app](https://loving-bell-14d73f.netlify.app/)
+    - Github Repository => [HR-Management-Repository](https://github.com/dennisagarwal/hr-management-app)
 ---
 ### INTERESTS
 Apart from being a web developer.
