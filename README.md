@@ -92,5 +92,6 @@ I am a Full Stack Web Developer. Proficient in React, JavaScript, Node.js, Expre
 ### INTERESTS
 Apart from being a web developer.
 
-I like to interact with new people. Music, cooking, reading articles, and painting keep me calm. I love doing adventure supports.
-
+I like to interact with new people.Travelling, Music, cooking, reading articles,keyaking and painting keep me calm. I love doing adventure sports.
+Skydiving and bunjee is checked mark on my list.
+Looking forward to do scuba diving and para-sailing
