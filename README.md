@@ -41,6 +41,11 @@ I am a Full Stack Web Developer. Proficient in React, JavaScript, FrontEnd Devel
 
 ---
 
+## Projects
+
+[Movie-Weather-App](https://movie-weather-app.web.app/)
+
+---
 ### INTERESTS
 Apart from being a web developer.
 
