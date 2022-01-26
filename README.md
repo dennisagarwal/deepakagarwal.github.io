@@ -77,6 +77,11 @@ I am a Full Stack Web Developer. Proficient in React, JavaScript, Node.js, Expre
     - Tech Stack REST API, React, mongoDB, JS, BootStrap, HTML, SASS, CSS
     - Click here => [food-api](https://fervent-lewin-4cbe98.netlify.app/)
     - Github Repository => [food-api](https://github.com/dennisagarwal/food-api-app)
+    
+8. The dice-game is a basic dice shuffle application</br>
+    - Tech Stack JS, HTML,CSS
+    - Click here => [food-api](https://dennisagarwal.github.io/diceGame/)
+    - Github Repository => [dice-game](https://github.com/dennisagarwal/diceGame)
 ---
 
 ### INTERESTS
