@@ -8,5 +8,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://www.linkedin.com/in/deepakagarwal04/">LinkedIn Profile</a>
   <br>
   <a href="https://www.github.com/dennisagarwal/">Gihub</a> 
-   <a href="https://drive.google.com/file/d/17C_qVEy7fNoanqfRddxZ4IdqrrwyM7CK/view?usp=sharing">Deepak Aagarwal Resume Download</a> 
+   <br>
+   <a href="https://drive.google.com/file/d/17C_qVEy7fNoanqfRddxZ4IdqrrwyM7CK/view?usp=sharing"><button>Deepak Aagarwal Resume Download<button></a> 
 theme: jekyll-theme-minimal
