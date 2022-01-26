@@ -59,7 +59,7 @@ I am a Full Stack Web Developer. Proficient in React, JavaScript, Node.js, Expre
 
 3. This app plays sounds of cat in different moods. </br>
     - Tech Stack JS, HTML, SASS, CSS
-    - Click here => [Pet-Sound](https://dennisagarwal.github.io/deepak-agarwal-travelsite/)
+    - Click here => [Pet-Sound](https://github.com/dennisagarwal/Pet-Sound)
     - Github Repository => [Pet-Sound-Github-Repository](https://github.com/dennisagarwal/Pet-Sound)
 
 4. This website based on a concept of Tinder for pets </br>
