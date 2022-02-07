@@ -22,18 +22,18 @@ I am a Full Stack Web Developer. Proficient in React, JavaScript, Node.js, Expre
 
 ### **FULL STACK DEVELOPER**
 ### Freelance
-- Perform code review and performing extensive testing to ensure high quality software
-- Design, develop, and unit test applications in accordance with established standards
-- Proficient appliction of REACT,JS,HTML, CSS/LESS/SCSS/etc., JavaScript/JQuery, and responsive designing.
+- Coordinated in cross-discipline teams with design, UX/UI, and project management
+- Ensured all day-to-day web development requests are prioritized, actioned, and maintained on websites
+- Created and maintained the workflows with team to provide workload balance. 
 
 <!-- Working with meetings and workshops team to provide best experience to faciltators and participants while running meetings . I worked on features like creating isolated environment for participants during meeting, providing them limited tools to collaborate and created navigation panel for facilitators to move participants to different slides -->
 
-### **Engineer/Product Development**
+### **Front End Developer**
 ### Sherwood Innovations Inc
 
-- Coordinated with cross-functional teams of around 20 to finalize product concept.
-- Engaged in creative and critical thought to optimize design and achieved the targeted KPI of 5% for efficient engineering design.
-- Improved customer’s safety and satisfaction by using design and engineering skills to improve product design. 
+- Design responsive user interfaces that are both efficient and user-friendly
+- Identify and fix bugs and use issues that occur and prevent their recurrence.
+- Coordinated with cross-functional teams of around 20 to finalize product concept.  
 
 ---
 
@@ -41,7 +41,7 @@ I am a Full Stack Web Developer. Proficient in React, JavaScript, Node.js, Expre
 
  - Diploma Web Development, BrainStation (2021- 2021)
  - JavaScript Accelerated Program, Juno College of Technology (2021- 2021)
- - Masters in Engineering, University Of Ottawa (2017-2018)
+ - Masters in Engineering, University Of Ottawa (2017-2019)
 
 ---
 
