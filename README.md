@@ -28,13 +28,14 @@ I am a Full Stack Web Developer. Proficient in React, JavaScript, Node.js, Expre
 
 <!-- Working with meetings and workshops team to provide best experience to faciltators and participants while running meetings . I worked on features like creating isolated environment for participants during meeting, providing them limited tools to collaborate and created navigation panel for facilitators to move participants to different slides -->
 
-### **Front End Developer**
+### **Engineering/Product Development**
 ### Sherwood Innovations Inc
 
 - Design responsive user interfaces that are both efficient and user-friendly
 - Identify and fix bugs and use issues that occur and prevent their recurrence.
 - Coordinated with cross-functional teams of around 20 to finalize product concept.  
-
+- Planned, executed, and monitored project timelines for OEM projects. 
+- Managed multiple overseas suppliers throughout the project lifecycle. 
 ---
 
 ## Education
